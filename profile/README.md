@@ -3,7 +3,6 @@
    <li> Email: ashiqaashiqa745@gmail.com</li>
    <li> Twitter: https://x.com/Hacker95Man</li>
    <li> Medium: https://medium.com/@Hacker95Man</li>
-   <li> Docs: https://medium.com/@Hacker95Man</li>
     
 <h2> </h2>    
 <div style="text-align: center;">Hi! It is Hacker Man 95. I have extensive experience as a system administrator and 2 years of working with nodes in the Cosmos and Polkadot networks. Crypto enthusiast,individual PoS validator.I actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start. I do not use cheap servers, only powerful and reliable servers (Hetzner, Vultr). This allows my to uncompromisingly ensure reliability and availability of data, as well as high uptime of my nodes.</div>
